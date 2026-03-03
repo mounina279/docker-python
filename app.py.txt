@@ -1,0 +1,1 @@
+print("Application Python conteneurisée avec Docker")
